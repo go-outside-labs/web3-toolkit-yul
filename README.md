@@ -1,2 +1,16 @@
-# web3-toolkit-yul-
-⛓️🥷🏻🪸 𝗽𝗹𝗮𝘆𝗶𝗻𝗴 𝗽𝘃𝗽 𝗶𝗻 𝘁𝗵𝗲 𝗺𝗲𝘁𝗮𝘄𝗲𝗯 - 𝘆𝘂𝗹 𝗲𝗱𝗶𝘁𝗶𝗼𝗻
+## ⛓️🥷🏻🪸 playing pvp in the metaweb: yul edition
+
+<br>
+
+
+### [ongoing] web3 projects and templates 
+
+<br>
+
+<br>
+
+
+----
+
+### resources
+
