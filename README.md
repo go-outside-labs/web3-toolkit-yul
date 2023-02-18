@@ -27,4 +27,7 @@
 <br>
 
 * [solidity docs on yul](https://docs.soliditylang.org/en/v0.8.18/yul.html)
+* [evm.codes (evm opcodes, by fork)](https://www.evm.codes/?fork=arrowGlacier)
+* [solady, optimized solidy snippets](https://github.com/Vectorized/solady)
 * [the darks arts of yul, by vectorized](https://www.youtube.com/watch?v=ew3pfnb2_V8)
+
