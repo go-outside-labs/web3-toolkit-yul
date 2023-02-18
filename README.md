@@ -7,7 +7,7 @@
 <br>
 
 * yul (previously also called julia) is an intermediate language that can be compiled to bytecode for different backends.
-* it's a good target for high-level optimisation stages.
+* it's a good target for high-level optimisation stages, as it provides flexibility, speed, and interoperates easily with high-level solidity.
 
 
 <br>
@@ -27,3 +27,4 @@
 <br>
 
 * [solidity docs on yul](https://docs.soliditylang.org/en/v0.8.18/yul.html)
+* [the darks arts of yul, by vectorized](https://www.youtube.com/watch?v=ew3pfnb2_V8)
