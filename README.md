@@ -9,6 +9,11 @@
 * yul (previously also called julia) is an intermediate language that can be compiled to bytecode for different backends.
 * it's a good target for high-level optimisation stages, as it provides flexibility, speed, and interoperates easily with high-level solidity.
 
+<br>
+
+<img width="900" src="https://user-images.githubusercontent.com/1130416/219821226-9f9b8a05-7d66-4d34-841e-774e0365d50c.png">
+
+
 
 <br>
 
