@@ -1,4 +1,4 @@
-## ⛓️🥷🏻🪸 playing pvp in the metaweb: yul edition
+## ⛓🧰🪸 playing pvp in the metaweb: yul edition
 
 <br>
 
