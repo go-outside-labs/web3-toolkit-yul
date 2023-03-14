@@ -35,4 +35,5 @@
 * [evm.codes (evm opcodes, by fork)](https://www.evm.codes/?fork=arrowGlacier)
 * [solady, optimized solidy snippets](https://github.com/Vectorized/solady)
 * [the darks arts of yul, by vectorized](https://www.youtube.com/watch?v=ew3pfnb2_V8)
+* [optimising gas efficient whitelist contract in yul, by 0xmonsoon](https://mirror.xyz/0xCdC75C7d65d5c4cD0329DA74f979C6E1613d57A5/0ZsbpDeEzQhqFNRnsJhhkmPg1oXJCxH0SMkr5EZbaNc)
 
